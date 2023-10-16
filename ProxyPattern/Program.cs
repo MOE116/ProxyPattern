@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Reflection.Metadata.Ecma335;
 // This program is to implement a proxy pattern. The proxy is designed to check if a client has access before calling the main 
-program that would generate a random secret code.
+//program that would generate a random secret code.
 //
 namespace ProxyPattern
 {
